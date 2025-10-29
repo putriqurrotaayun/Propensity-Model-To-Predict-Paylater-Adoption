@@ -35,7 +35,7 @@ The BNPL industry continues to grow, with commercial banks entering the industry
 ---
 
 ## 📈 Results
-![Propensity Model To Predict Paylater Adoption](https://drive.google.com/file/d/1Xz9YlnT9169Ii5N-sktlpZ-s8C4Lb9SM/view?usp=drive_link)
+[Propensity Model To Predict Paylater Adoption](https://drive.google.com/file/d/1Xz9YlnT9169Ii5N-sktlpZ-s8C4Lb9SM/view?usp=drive_link)
 
 ---
 

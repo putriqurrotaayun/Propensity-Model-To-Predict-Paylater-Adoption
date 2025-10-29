@@ -7,7 +7,7 @@ The BNPL industry continues to grow, with commercial banks entering the industry
 ## 📊 Project Overview
 - **Objective:** Finding a propensity model with at least 85% accuracy to predict which customers are most likely to use the PayLater feature and deliver a business impact of  up to 8.42 R/E in 3 months. 
 - **Techniques Used:** Data cleaning, Exploratory Data Analysis, Machine Learning (Classification). 
-- **Tools:** Python, SQL, Spreadsheet, Tableau, Power BI
+- **Tools:** Python, SQL, Spreadsheet, Tableau
 
 ---
 
@@ -40,7 +40,7 @@ The BNPL industry continues to grow, with commercial banks entering the industry
 ---
 
 ## 🛠️ Tech Stack
-Goole Collab | SSMS 21 | Spreadsheet | Tableau | Power BI | Canva
+Goole Collab | SSMS 21 | Spreadsheet | Tableau | Canva
 
 ---
 ## 💬 Author
